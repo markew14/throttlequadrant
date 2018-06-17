@@ -23,4 +23,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/we-test-a-post.md
 - _posts/2018-06-17-welcome-to-jekyll.markdown
